@@ -10,7 +10,7 @@ I am a Back End Developer from Brasil.
 
 - 🔭 I’m a student and dev.
 - 🌱 Studying new technologies.
-- ⚡ In my free time I create projects for test my skills.
+- ⚡ In my free time I create projects to test my skills.
 
 ---
 
