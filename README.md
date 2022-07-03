@@ -6,7 +6,7 @@
 
 ### :woman_technologist: &nbsp;About Me:
 
-I am a Back End from Brasil.
+I am a Back End Developer from Brasil.
 
 - 🔭 I’m a student and dev.
 - 🌱 Studying new technologies.
