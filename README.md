@@ -47,6 +47,7 @@ I am a Back End Developer from Brasil.
     <a href="https://t.me/fredxs" target="blank"><img aling="center"
        src="https://img.shields.io/badge/telegram-blue.svg?style=for-the-badge&logo=Telegram&logoColor=white"
        alt="Telegram" height="30"/></a>
+    <br>
   </p>
   <p align="center">
       <a href="https://instagram.com/xsfrederic" target="blank"><img align="center"
