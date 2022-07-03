@@ -44,7 +44,7 @@ I am a Back End Developer from Brasil.
     <a href="https://mailto:xsfrederic@gmail.com" target="blank"><img align="center"
        src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
        alt="Gmail" height="30"/></a>
-    <a href="https://t.me/fredxs" target="blank"><img aling="center"
+    <a href="https://t.me/fredxs" target="blank"><img align="center"
        src="https://img.shields.io/badge/telegram-blue.svg?style=for-the-badge&logo=telegram&logoColor=white"
        alt="Telegram" height="30"/></a>
     <br>
