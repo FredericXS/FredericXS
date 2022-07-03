@@ -43,7 +43,10 @@ I am a Back End Developer from Brasil.
     <br/>
     <a href="https://mailto:xsfrederic@gmail.com" target="blank"><img align="center"
        src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-       alt="MailTo" height="30"/></a>
+       alt="Gmail" height="30"/></a>
+    <a href="https://t.me/fredxs" target="blank"><img aling="center"
+       src="https://img.shields.io/badge/-TELEGRAM-blue?style=for-the-badge&logo=Telegram&logoColor=white"
+       alt="Telegram" height="30"/></a>
   </p>
   <p align="center">
       <a href="https://instagram.com/xsfrederic" target="blank"><img align="center"
