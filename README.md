@@ -41,19 +41,19 @@ I am a Back End Developer from Brasil.
 
   <p align="center">
     <br/>
-    <a href="https://mailto:xsfrederic@gmail.com" target="blank"><img align="center"
+    <a href="https://mailto:xsfrederic@gmail.com" target="_blank"><img align="center"
        src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
        alt="Gmail" height="30"/></a>
-    <a href="https://t.me/fredxs" target="blank"><img align="center"
+    <a href="https://t.me/fredxs" target="_blank"><img align="center"
        src="https://img.shields.io/badge/telegram-blue.svg?style=for-the-badge&logo=telegram&logoColor=white"
        alt="Telegram" height="30"/></a>
     <br>
   </p>
   <p align="center">
-      <a href="https://instagram.com/xsfrederic" target="blank"><img align="center"
+      <a href="https://instagram.com/xsfrederic" target="_blank"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
          alt="Instagram" height="30"/></a>
-      <a href="https://twitter.com/zfredericxs" target="blank"><img align="center"
+      <a href="https://twitter.com/zfredericxs" target="_blank"><img align="center"
          src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
          alt="Twitter" height="30"/></a>
       <br>
