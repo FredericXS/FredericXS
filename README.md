@@ -35,6 +35,7 @@ I am a Back End Developer from Brasil.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FredericXS&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredericXS&layout=compact&theme=tokyonight"/>
 </div>
+
 ---
 
 ### 📞 &nbsp;Reach me:
