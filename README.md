@@ -31,7 +31,7 @@ I am a Back End Developer from Brasil.
 ---
 
 ### 🔥 &nbsp;My Stats:
-<div>
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FredericXS&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredericXS&layout=compact&theme=tokyonight"/>
 </div>
