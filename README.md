@@ -31,10 +31,10 @@ I am a Back End Developer from Brasil.
 ---
 
 ### 🔥 &nbsp;My Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FredericXS&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FredericXS&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FredericXS&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredericXS&layout=compact&theme=tokyonight"/>
+</div>
 ---
 
 ### 📞 &nbsp;Reach me:
@@ -44,7 +44,7 @@ I am a Back End Developer from Brasil.
     <a href="https://mailto:xsfrederic@gmail.com" target="_blank"><img align="center"
        src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
        alt="Gmail" height="30"/></a>
-    <a href="https://t.me/fredxs" target="_blank"><img align="center"
+    <a href="https://t.me/xsfrederic" target="_blank"><img align="center"
        src="https://img.shields.io/badge/telegram-blue.svg?style=for-the-badge&logo=telegram&logoColor=white"
        alt="Telegram" height="30"/></a>
     <br>
@@ -53,7 +53,7 @@ I am a Back End Developer from Brasil.
       <a href="https://instagram.com/xsfrederic" target="_blank"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
          alt="Instagram" height="30"/></a>
-      <a href="https://twitter.com/zfredericxs" target="_blank"><img align="center"
+      <a href="https://twitter.com/xsfrederic" target="_blank"><img align="center"
          src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
          alt="Twitter" height="30"/></a>
       <br>
