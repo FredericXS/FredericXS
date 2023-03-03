@@ -23,6 +23,8 @@ I am a Back End Developer from Brasil.
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
 </p>
 
+---
+
 ### 🛠 &nbsp;Languages and Tools:
 
 <p>
@@ -50,14 +52,12 @@ I am a Back End Developer from Brasil.
 ### 📞 &nbsp;Reach me:
 
   <p align="center">
-    <br/>
     <a href="https://mailto:xsfrederic@gmail.com" target="_blank"><img align="center"
        src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
        alt="Gmail" height="30"/></a>
     <a href="https://t.me/xsfrederic" target="_blank"><img align="center"
        src="https://img.shields.io/badge/telegram-blue.svg?style=for-the-badge&logo=telegram&logoColor=white"
        alt="Telegram" height="30"/></a>
-    <br>
   </p>
   </p>
   
