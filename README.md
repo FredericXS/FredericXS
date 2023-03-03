@@ -50,14 +50,14 @@ I am a Back End Developer from Brasil.
 ---
 
 ### 📞 &nbsp;Reach me:
-<p align="center">
+<div align="center">
   <a href="https://mailto:xsfrederic@gmail.com" target="_blank"><img align="center"
      src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
      alt="Gmail" height="30"/></a>
   <a href="https://t.me/xsfrederic" target="_blank"><img align="center"
      src="https://img.shields.io/badge/telegram-blue.svg?style=for-the-badge&logo=telegram&logoColor=white"
      alt="Telegram" height="30"/></a>
-</p>
+</div>
   </p>
   
     </p>
