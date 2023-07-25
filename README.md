@@ -52,12 +52,33 @@ I am an iOS and Web Developer from Brazil.
 
 ---
 
+### 🚀 &nbsp;Some of my projects:
+<div align="center">
+  <a href="https://github.com/FredericXS/PokedexApp">
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=FredericXS&repo=PokedexApp&theme=gotham"/>
+  </a>
+  <a href="https://github.com/FredericXS/PyGame">
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=FredericXS&repo=PyGame&theme=gotham"/>
+  </a>
+  <a href="https://github.com/FredericXS/RandomGenerator">
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=FredericXS&repo=RandomGenerator&theme=gotham"/>
+  </a>
+  <a href="https://github.com/FredericXS/TicTacToe">
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=FredericXS&repo=TicTacToe&theme=gotham"/>
+  </a>
+  <a href="https://github.com/FredericXS/IPABuilderTool">
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=FredericXS&repo=IPABuilderTool&theme=gotham"/>
+  </a>
+</div>
+
+---
+
 ### 📞 &nbsp;Reach me:
 <div align="center">
-  <a href="https://mailto:xsfrederic@gmail.com" target="_blank"><img align="center"
-     src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+  <a href="https://xsfrederic" target="_blank"><img align="center"
+     src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"
      alt="Gmail" height="30"/></a>
-  <a href="https://t.me/xsfrederic" target="_blank"><img align="center"
+  <a href="https://t.me/aafffxs" target="_blank"><img align="center"
      src="https://img.shields.io/badge/telegram-blue.svg?style=for-the-badge&logo=telegram&logoColor=white"
      alt="Telegram" height="30"/></a>
 </div>
