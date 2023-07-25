@@ -1,12 +1,17 @@
+<h1 align="center">Hey there, I'm Frederic <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+
+<p align="center">
+  <img src="https://github.com/FredericXS/FredericXS/assets/100254007/275f1b45-06f5-479a-b28d-93ab3c9af627" width="500" />
+</p>
+
 <p align="center">
   <a href="https://www.buymeacoffee.com/xsfrederic" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p>
 
-<h1 align="center">Hey there, I'm Frederic <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+---
 
-### :man_technologist: &nbsp;About Me:
-
-I am an iOS and Web Developer from Brasil.
+### :man_technologist: &nbsp;About Me: 
+I am an iOS and Web Developer from Brazil.
 
 - 🖥️ I’m a student and dev.
 - 📖 Studying new technologies.
@@ -31,7 +36,6 @@ I am an iOS and Web Developer from Brasil.
 ---
 
 ### 📚 &nbsp;I'm interessed in:
-
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/objectivec/objectivec-plain.svg" title="Objective-C" alt="Objective-C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
