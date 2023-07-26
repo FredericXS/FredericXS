@@ -69,6 +69,9 @@ I am an iOS and Web Developer from Brazil.
   <a href="https://github.com/FredericXS/IPABuilderTool">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=FredericXS&repo=IPABuilderTool&theme=gotham"/>
   </a>
+  <a href="https://github.com/FredericXS/TikTok-Downloader">
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=FredericXS&repo=TikTok-Downloader&theme=gotham"/>
+  </a>
 </div>
 
 ---
