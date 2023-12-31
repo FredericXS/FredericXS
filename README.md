@@ -60,9 +60,6 @@ I am an iOS and Web Developer from Brazil.
   <a href="https://github.com/FredericXS/PyGame">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=FredericXS&repo=PyGame&theme=gotham"/>
   </a>
-  <a href="https://github.com/FredericXS/RandomGenerator">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=FredericXS&repo=RandomGenerator&theme=gotham"/>
-  </a>
   <a href="https://github.com/FredericXS/TicTacToe">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=FredericXS&repo=TicTacToe&theme=gotham"/>
   </a>
