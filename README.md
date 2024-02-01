@@ -11,7 +11,7 @@
 ---
 
 ### :man_technologist: &nbsp;About Me: 
-I am an iOS and Web Developer from Brazil.
+I am an iOS Developer from Brazil.
 
 - 🖥️ I’m a student and dev.
 - 📖 Studying new technologies.
