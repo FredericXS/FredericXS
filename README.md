@@ -11,7 +11,7 @@
 ---
 
 ### :man_technologist: &nbsp;About Me: 
-I am an iOS Developer from Brazil.
+I am an iOS and Web Developer from Brazil.
 
 - 🖥️ I’m a student and dev.
 - 📖 Studying new technologies.
@@ -24,7 +24,9 @@ I am an iOS Developer from Brazil.
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJs" alt="NodeJs" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -37,8 +39,8 @@ I am an iOS Developer from Brazil.
 
 ### 📚 &nbsp;I'm interessed in:
 <p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/objectivec/objectivec-plain.svg" title="Objective-C" alt="Objective-C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
 </p>
 
@@ -54,6 +56,9 @@ I am an iOS Developer from Brazil.
 
 ### 🚀 &nbsp;Some of my projects:
 <div align="center">
+  <a href="https://github.com/FredericXS/Chip8-Emulator">
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=FredericXS&repo=Chip8-Emulator&theme=gotham"/>
+  </a>
   <a href="https://github.com/FredericXS/PokedexApp">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=FredericXS&repo=PokedexApp&theme=gotham"/>
   </a>
@@ -66,18 +71,12 @@ I am an iOS Developer from Brazil.
   <a href="https://github.com/FredericXS/IPABuilderTool">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=FredericXS&repo=IPABuilderTool&theme=gotham"/>
   </a>
-  <a href="https://github.com/FredericXS/TikTok-Downloader">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=FredericXS&repo=TikTok-Downloader&theme=gotham"/>
-  </a>
 </div>
 
 ---
 
 ### 📞 &nbsp;Reach me:
 <div align="center">
-  <a href="https://xsfrederic" target="_blank"><img align="center"
-     src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"
-     alt="Gmail" height="30"/></a>
   <a href="https://t.me/aafffxs" target="_blank"><img align="center"
      src="https://img.shields.io/badge/telegram-blue.svg?style=for-the-badge&logo=telegram&logoColor=white"
      alt="Telegram" height="30"/></a>
