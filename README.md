@@ -59,6 +59,9 @@ I am an iOS and Web Developer from Brazil.
   <a href="https://github.com/FredericXS/Chip8-Emulator">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=FredericXS&repo=Chip8-Emulator&theme=gotham"/>
   </a>
+  <a href="https://github.com/FredericXS/Cloth-Simulation">
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=FredericXS&repo=Cloth-Simulation&theme=gotham"/>
+  </a>
   <a href="https://github.com/FredericXS/PokedexApp">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=FredericXS&repo=PokedexApp&theme=gotham"/>
   </a>
